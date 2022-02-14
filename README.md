@@ -1,4 +1,4 @@
-#### Hello, I'm Daniel 😉 // Olá, eu sou o Daniel 😉 <br><br>
+#### Hello, I'm Daniel 😉 / Olá, eu sou o Daniel 😉 <br><br>
 
 <!-- Placas -->
 <div align="center">
@@ -30,22 +30,22 @@
   
 <div align="left">
   
-## Goals // Objetivos
+## 🏹 Goals / Objetivos
 <p> Chasing my first opportunity to work as a Dev. My first step was Web Development but I'm eager to learn and work in other areas as well.<br>
   Such as: Games, softwares, mobile, etc.<p/>
-  //
+  /
 <p>Buscando minha primeira oportunidade de trabalho como Dev. Meu primeiro passo foi Desenvolvimento Web mas tenho interesse em aprender e atuar em outras áreas também.<br>
   Ex: Games, softwares, mobile, etc.<p/>
   
-## Learning // Aprendendo
+## ⚒ Sharpening the Tools / Afiando as ferramentas
 
 I’m currently learning FullStack Web Development at Blue Ed Tech.
 <br><br>
-//
+  /
 <br><br>
 Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 
-#### Ready to Use // Pronto para usar:
+#### 🚀 Ready to Use / Pronto para usar:
 - JavaScript ;
 - NodeJs ;
 - Visual Studio Code (VsCode) ;
@@ -53,7 +53,7 @@ Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 - Git ;
 - GitHub;
 
-### Learning soon (next 5 months) // Aprenderei em breve (próximos 5 meses) :
+### 📚📖 Learning soon (next 5 months) / Aprenderei em breve (próximos 5 meses) :
 - CSS ;
 - Express ;
 - SQL ;
@@ -70,3 +70,5 @@ Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 - Prisma - TypeScript ;
 - ElephantSQL;
 <div/>
+  <br><br>
+  last update: 02/14/2022
