@@ -46,16 +46,18 @@ I’m currently learning FullStack Web Development at Blue Ed Tech.
 Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 
 #### 🚀 Ready to Use / Pronto para usar:
-- JavaScript ;
 - NodeJs ;
 - Visual Studio Code (VsCode) ;
-- HTML ;
 - Git ;
 - GitHub;
-
-### 📚📖 Learning soon (next 5 months) / Aprenderei em breve (próximos 5 meses) :
+- JavaScript ;
+- HTML ;
 - CSS ;
 - Express ;
+- JSON ;
+  
+### 📚📖 Learning soon (next 5 months) / Aprenderei em breve (próximos 5 meses) :
+
 - SQL ;
 - Sequelize ;
 - Heroku ;
@@ -63,7 +65,6 @@ Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 - NoSQL ;
 - MoongoDB ;
 - Mongoose ;
-- JSON ;
 - Nest ;
 - TypeScript ;
 - PostgreSQL or MySQL ;
@@ -71,4 +72,4 @@ Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
 - ElephantSQL;
 <div/>
   <br><br>
-  last update: 02/14/2022
+  last update: 03/18/2022
