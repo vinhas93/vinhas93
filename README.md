@@ -39,37 +39,28 @@
   
 ## ⚒ Sharpening the Tools / Afiando as ferramentas
 
-I’m currently learning FullStack Web Development at Blue Ed Tech.
+I’m currently learning Backend Web Development at Blue Ed Tech.
 <br><br>
   /
 <br><br>
-Atualmente estudo Desenvolvimento web FullStack na Blue Ed Tech.
+Atualmente estudo Desenvolvimento web Backend na Blue Ed Tech.
 
 #### 🚀 Ready to Use / Pronto para usar:
 - NodeJs ;
-- Visual Studio Code (VsCode) ;
-- Git ;
-- GitHub;
 - JavaScript ;
 - HTML ;
 - CSS ;
 - Express ;
-- JSON ;
-  
-### 📚📖 Learning soon (next 5 months) / Aprenderei em breve (próximos 5 meses) :
+- PostgreSQL ;
 
-- SQL ;
-- Sequelize ;
-- Heroku ;
-- ReactJs ;
-- NoSQL ;
-- MoongoDB ;
-- Mongoose ;
-- Nest ;
+  
+### 📚📖 Learning soon (next 2 months) / Aprenderei em breve (próximos 2 meses) :
+
+- MongoDB ;
+- NestJS ;
 - TypeScript ;
-- PostgreSQL or MySQL ;
-- Prisma - TypeScript ;
-- ElephantSQL;
+- Jest
+
 <div/>
   <br><br>
-  last update: 03/18/2022
+  last update: 04/08/2022
