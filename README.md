@@ -32,10 +32,10 @@
   
 ## 🏹 Goals / Objetivos
 <p> Chasing my first opportunity to work as a Dev. My first step was Web Development but I'm eager to learn and work in other areas as well.<br>
-  Such as: Games, softwares, mobile, etc.<p/>
+  Such as: QA Tester, Technology Risk, etc.<p/>
   /
 <p>Buscando minha primeira oportunidade de trabalho como Dev. Meu primeiro passo foi Desenvolvimento Web mas tenho interesse em aprender e atuar em outras áreas também.<br>
-  Ex: Games, softwares, mobile, etc.<p/>
+  Ex: Análista de Testes, Technology Risk, etc.<p/>
   
 ## ⚒ Sharpening the Tools / Afiando as ferramentas
 
@@ -46,21 +46,21 @@ I’m currently learning Backend Web Development at Blue Ed Tech.
 Atualmente estudo Desenvolvimento web Backend na Blue Ed Tech.
 
 #### 🚀 Ready to Use / Pronto para usar:
-- NodeJs ;
+- NodeJs - Express ;
 - JavaScript ;
-- HTML ;
+- HTML - EJS;
 - CSS ;
-- Express ;
 - PostgreSQL ;
+- MongoDB - Mongoose;
+- JWT ;
 
   
-### 📚📖 Learning soon (next 2 months) / Aprenderei em breve (próximos 2 meses) :
+### 📚📖 Learning soon (next month) / Aprenderei em breve (Próximo mês) :
 
-- MongoDB ;
 - NestJS ;
 - TypeScript ;
 - Jest
 
 <div/>
   <br><br>
-  last update: 04/08/2022
+  last update: 05/02/2022 (02/05/22 - BR)
