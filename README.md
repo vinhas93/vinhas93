@@ -53,14 +53,7 @@ Atualmente estudo Desenvolvimento web Backend na Blue Ed Tech.
 - PostgreSQL ;
 - MongoDB - Mongoose;
 - JWT ;
-
-  
-### 📚📖 Learning soon (next month) / Aprenderei em breve (Próximo mês) :
-
 - NestJS ;
 - TypeScript ;
-- Jest
 
 <div/>
-  <br><br>
-  last update: 05/02/2022 (02/05/22 - BR)
