@@ -28,9 +28,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117)&nbsp;
 
-### Studying in this moment:
+### Studying at this moment:
 ![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=red&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue&labelColor=0D1117)&nbsp;
+![TDD](https://img.shields.io/badge/-tdd%20and%20solid-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
