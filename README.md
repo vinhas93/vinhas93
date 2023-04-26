@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98F8FF&height=150&section=header&text=Hello+I'm+Daniel+😉&fontSize=40&fontColor=D6FFF6&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98D8DD&size=38&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile+😄;A+little+about+myself...;I'm+29+years+old...;I'm+a+brazilian+developer...;I+love+to+code...👨🏼‍💻;And+improve+myself+daily.;Let's+find+out+more!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98D8DD&size=38&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile+😄;I'm+glad+you+came;Let+me+show+a+little+about+myself...;I'm+a+brazilian+developer...;I+love+to+code...👨🏼‍💻;And+improve+myself+daily.;Let's+find+out+more!)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -23,6 +23,7 @@
 
 ### Main skills:
 ![NodeJs](https://img.shields.io/badge/-NODE.JS-0D1117?style=for-the-badge&logo=Nodedotjs&logoColor=red6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=Javascript&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![NestJS](https://img.shields.io/badge/-Nestjs-0D1117?style=for-the-badge&logo=nestjs&logoColor=red&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -36,17 +37,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&logoColor=blue)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=Javascript&labelColor=0D1117)&nbsp;
 
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=Insomnia&logoColor=purple&labelColor=0D1117)&nbsp;
-![Miro](https://img.shields.io/badge/-Miro-0D1117?style=for-the-badge&logo=Miro&logoColor=yellow&labelColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=Trello&logoColor=blue&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=Eclipse&logoColor=purple&labelColor=0D1117)&nbsp;
+
+![CodeWars](https://www.codewars.com/users/vinhas93/badges/large)
 
 
 
